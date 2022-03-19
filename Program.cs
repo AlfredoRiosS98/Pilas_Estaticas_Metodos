@@ -100,6 +100,7 @@ namespace Pilas_Estaticas_Metodos
                     if (top == -1)
                     {
                         Console.WriteLine("Pila vacía");
+                        Console.WriteLine(otro);
                     }
                     else
                     {
