@@ -1,0 +1,15 @@
+/mnt/5de6aaa7-9b98-423f-8605-85f5aa640a5c/Pilas_Estaticas_Metodos/obj/Debug/net6.0/Pilas_Estaticas_Metodos.csproj.AssemblyReference.cache
+/mnt/5de6aaa7-9b98-423f-8605-85f5aa640a5c/Pilas_Estaticas_Metodos/obj/Debug/net6.0/Pilas_Estaticas_Metodos.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/5de6aaa7-9b98-423f-8605-85f5aa640a5c/Pilas_Estaticas_Metodos/obj/Debug/net6.0/Pilas_Estaticas_Metodos.AssemblyInfoInputs.cache
+/mnt/5de6aaa7-9b98-423f-8605-85f5aa640a5c/Pilas_Estaticas_Metodos/obj/Debug/net6.0/Pilas_Estaticas_Metodos.AssemblyInfo.cs
+/mnt/5de6aaa7-9b98-423f-8605-85f5aa640a5c/Pilas_Estaticas_Metodos/obj/Debug/net6.0/Pilas_Estaticas_Metodos.csproj.CoreCompileInputs.cache
+/mnt/5de6aaa7-9b98-423f-8605-85f5aa640a5c/Pilas_Estaticas_Metodos/bin/Debug/net6.0/Pilas_Estaticas_Metodos
+/mnt/5de6aaa7-9b98-423f-8605-85f5aa640a5c/Pilas_Estaticas_Metodos/bin/Debug/net6.0/Pilas_Estaticas_Metodos.deps.json
+/mnt/5de6aaa7-9b98-423f-8605-85f5aa640a5c/Pilas_Estaticas_Metodos/bin/Debug/net6.0/Pilas_Estaticas_Metodos.runtimeconfig.json
+/mnt/5de6aaa7-9b98-423f-8605-85f5aa640a5c/Pilas_Estaticas_Metodos/bin/Debug/net6.0/Pilas_Estaticas_Metodos.dll
+/mnt/5de6aaa7-9b98-423f-8605-85f5aa640a5c/Pilas_Estaticas_Metodos/bin/Debug/net6.0/Pilas_Estaticas_Metodos.pdb
+/mnt/5de6aaa7-9b98-423f-8605-85f5aa640a5c/Pilas_Estaticas_Metodos/obj/Debug/net6.0/Pilas_Estaticas_Metodos.dll
+/mnt/5de6aaa7-9b98-423f-8605-85f5aa640a5c/Pilas_Estaticas_Metodos/obj/Debug/net6.0/refint/Pilas_Estaticas_Metodos.dll
+/mnt/5de6aaa7-9b98-423f-8605-85f5aa640a5c/Pilas_Estaticas_Metodos/obj/Debug/net6.0/Pilas_Estaticas_Metodos.pdb
+/mnt/5de6aaa7-9b98-423f-8605-85f5aa640a5c/Pilas_Estaticas_Metodos/obj/Debug/net6.0/Pilas_Estaticas_Metodos.genruntimeconfig.cache
+/mnt/5de6aaa7-9b98-423f-8605-85f5aa640a5c/Pilas_Estaticas_Metodos/obj/Debug/net6.0/ref/Pilas_Estaticas_Metodos.dll
