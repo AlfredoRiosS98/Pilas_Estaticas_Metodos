@@ -96,7 +96,6 @@ namespace Pilas_Estaticas_Metodos
                 String aux;
                 do
                 {
-
                     if (top == -1)
                     {
                         Console.WriteLine("Pila vacía");
